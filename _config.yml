@@ -2,19 +2,20 @@ title: JGan's Home
 author:
   name: Justin Gan
   email: jgan@xii.cc
+description: >-
+  Justin Gan's Home Page
 
+url: "http://jgan.xii.cc" 
 plugins:
-  - jekyll-remote-theme
+  - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-  - jekyll-feed
 
-remote_theme: jekyll/minima
+theme: minima
 minima:
   skin: auto
 
 exclude:
   - .gitignore
   - .prettierrc
-  - CNAME
   - README.md
