@@ -10,10 +10,10 @@ Now playing プロセカ, with level 25 max.
 ---
 
 Home:
-<a href="http://jgan.xii.cc/">jgan.xii.cc</a>
+<a href="{{ site.url }}">{{ site.url }}</a>
 
 Email:
-<a href="mailto:jgan@xii.cc">jgan@xii.cc</a>
+<a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
 
 GitHub
 <a rel="me" href="https://github.com/jgan68">@jgan68</a>
