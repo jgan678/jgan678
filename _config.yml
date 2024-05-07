@@ -3,9 +3,9 @@ author:
   name: Justin Gan
   email: jgan@xii.cc
 description: >-
-  Justin Gan's Home Page
+  JGAN (Justin Gan)
 
-url: "http://jgan.xii.cc" 
+url: "https://jgan.xii.cc"
 plugins:
   - jekyll-feed
   - jekyll-sitemap

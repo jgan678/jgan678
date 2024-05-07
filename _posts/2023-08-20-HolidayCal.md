@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Subscribe to Holiday Calendars
 ---
 
