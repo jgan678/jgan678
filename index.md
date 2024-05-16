@@ -18,16 +18,16 @@ Email:
 GitHub
 <a rel="me" href="https://github.com/jgan68">@jgan68</a>
 
-Mastodon
-<a rel="me" href="https://mastodon.social/@jgan">@jgan</a>
+Bluesky
+<a rel="me" href="https://bsky.app/profile/jgan.bsky.social">@jgan.bsky.social</a>
 
 ---
 
 Misskey
 <a rel="me" href="https://misskey.io/@jgan">@jgan</a>
 
-Bluesky
-<a rel="me" href="https://bsky.app/profile/jgan.bsky.social">@jgan.bsky.social</a>
+Mastodon
+<a rel="me" href="https://mastodon.social/@jgan">@jgan</a>
 
 YouTube
 <a rel="me" href="https://youtube.com/@jgan68">@jgan68</a>
