@@ -1,10 +1,10 @@
-title: JGan
+url: http://jgan.xii.cc
+title: JGan's
 author:
   name: Justin Gan
   email: jgan@xii.cc
 description: >-
   JGAN (Justin Gan)
-url: http://jgan.xii.cc
 #
 theme: minima
 minima:
@@ -12,5 +12,6 @@ minima:
 #
 exclude:
   - .gitignore
+  - .github
   - .prettierrc
   - README.md
